@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Env files, caches
+.env
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+
+# Fetched output is big and easy to recreate
+data/*.jsonl

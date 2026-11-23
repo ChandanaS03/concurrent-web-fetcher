@@ -1,0 +1,42 @@
+# Agricultural information pages: Wikipedia topics + FAO / USDA-ERS / EPA agriculture content.
+# Checked against each domain's robots.txt and confirmed to return HTTP 200 before adding here.
+# NASS (nass.usda.gov) and usda.gov are excluded: robots.txt fully disallows / blocks bots.
+
+# --- Wikipedia: agriculture topics ---
+https://en.wikipedia.org/wiki/Agriculture
+https://en.wikipedia.org/wiki/Crop_rotation
+https://en.wikipedia.org/wiki/Irrigation
+https://en.wikipedia.org/wiki/Soil_health
+https://en.wikipedia.org/wiki/Sustainable_agriculture
+https://en.wikipedia.org/wiki/Precision_agriculture
+https://en.wikipedia.org/wiki/Agroforestry
+https://en.wikipedia.org/wiki/Organic_farming
+https://en.wikipedia.org/wiki/Genetically_modified_crops
+https://en.wikipedia.org/wiki/Fertilizer
+https://en.wikipedia.org/wiki/Pesticide
+https://en.wikipedia.org/wiki/Agricultural_economics
+https://en.wikipedia.org/wiki/Crop_yield
+https://en.wikipedia.org/wiki/Livestock
+https://en.wikipedia.org/wiki/Aquaculture
+https://en.wikipedia.org/wiki/Horticulture
+https://en.wikipedia.org/wiki/Agricultural_machinery
+https://en.wikipedia.org/wiki/Green_Revolution
+https://en.wikipedia.org/wiki/Food_security
+https://en.wikipedia.org/wiki/Climate-smart_agriculture
+
+# --- UN FAO ---
+https://www.fao.org/sustainability/en
+https://www.fao.org/land-water/en
+https://www.fao.org/forestry/en
+https://www.fao.org/fishery/en
+https://www.fao.org/agroecology/overview/en
+https://www.fao.org/climate-change/en
+
+# --- USDA Economic Research Service ---
+https://www.ers.usda.gov/topics/farm-economy
+https://www.ers.usda.gov/topics/farm-practices-management/irrigation-water-use
+https://www.ers.usda.gov/topics/crops
+
+# --- EPA ---
+https://www.epa.gov/agriculture
+https://www.epa.gov/nutrientpollution/sources-and-solutions-agriculture
